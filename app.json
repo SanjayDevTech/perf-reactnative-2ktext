@@ -16,6 +16,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "tech.sanjaydev.test.reactnative.thviews",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -31,6 +32,14 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "a8ac1c60-9f3f-4cfa-895b-ef261fadbc58"
+      }
     }
   }
 }
