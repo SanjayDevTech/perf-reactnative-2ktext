@@ -1,4 +1,3 @@
-import { useFonts } from 'expo-font';
 import { Slot } from 'expo-router';
 import 'react-native-reanimated';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
